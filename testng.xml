@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Lavanya/IdeaProjects/Aug_6_2024_Maven_Practise">
+        <classes>
+            <class name="TestNG.Annotations.BeforeMethodAndAfterMethod_1"/>
+            <class name="TestNG.PriorityExample"/>
+        </classes>
+    </test>
+</suite>
